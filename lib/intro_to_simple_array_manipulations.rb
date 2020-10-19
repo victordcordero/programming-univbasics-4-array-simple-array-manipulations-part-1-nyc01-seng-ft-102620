@@ -1,3 +1,3 @@
-def updated array = (array, string)
-  
+def using_push(array, string)
+ 
 end
