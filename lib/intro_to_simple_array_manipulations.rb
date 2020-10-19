@@ -9,5 +9,3 @@ end
 def using_pop(array,string)
   array.pop(array)
 end
-
-def pop_with_args()
