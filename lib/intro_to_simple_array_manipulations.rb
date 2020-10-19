@@ -14,7 +14,7 @@ deleted_string = "Antarctica"
 end
 
 def pop_with_args(array)
-array[2][3]
+array.pop[2][3]
 end
 
 def using_shift(array)
