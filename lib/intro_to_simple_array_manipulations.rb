@@ -26,4 +26,5 @@ end
 
 def shift_with_args(array)
   array.shift[2]
+  deleted_string = "Blue Bell Creameries", "Ben & Jerry's"
 end
