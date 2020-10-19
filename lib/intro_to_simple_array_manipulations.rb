@@ -21,7 +21,6 @@ end
 def using_shift(array)
   binding.pry
   array.shift[0]
-  array[0]
 end
 
 def shift_with_args(array)
