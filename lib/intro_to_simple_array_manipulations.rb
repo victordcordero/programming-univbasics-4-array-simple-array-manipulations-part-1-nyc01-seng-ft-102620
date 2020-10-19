@@ -14,7 +14,7 @@ deleted_string = "Antarctica"
 end
 
 def pop_with_args(array)
-array.pop[2]
+array.pop[2, 3]
 deleted_string = "Chihuahua", "Shiba Inu"
 end
 
