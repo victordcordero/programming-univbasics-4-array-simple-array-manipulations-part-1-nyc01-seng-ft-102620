@@ -1,3 +1,3 @@
 def using_push(array, string)
-array.push(violet)
+array.push(next_color)
 end
