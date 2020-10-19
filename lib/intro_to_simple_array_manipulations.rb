@@ -11,6 +11,7 @@ end
 def using_pop(array)
   array.pop[5]
   array[5]
+  binding.pry
 end
 
 def pop_with_args(array)
