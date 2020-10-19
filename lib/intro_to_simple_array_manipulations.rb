@@ -1,2 +1,2 @@
-def updated array = (colors_in_the_rainbow, next_color)
+def updated array = (array, string)
 end
