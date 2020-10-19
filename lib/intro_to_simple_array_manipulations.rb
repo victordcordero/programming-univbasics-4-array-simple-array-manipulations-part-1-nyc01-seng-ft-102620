@@ -10,6 +10,7 @@ end
 
 def using_pop(array)
   array[5]
+  binding.pry
   array.pop[6]
 end
 
