@@ -14,6 +14,7 @@ end
 
 def pop_with_args(array)
   binding.pry
+  [2]
   array.pop[2]
 end
 
