@@ -21,6 +21,7 @@ end
 def using_shift(array)
   binding.pry
   array.shift[0]
+  deleted_string = "Lagos"
 end
 
 def shift_with_args(array)
