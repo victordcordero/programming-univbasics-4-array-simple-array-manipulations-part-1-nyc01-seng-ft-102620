@@ -9,7 +9,8 @@ def using_unshift(array,string)
 end
 
 def using_pop(array)
-puts array[6]
+pop.array[6]
+deleted_string = "Antarctica"
 end
 
 def pop_with_args(array)
