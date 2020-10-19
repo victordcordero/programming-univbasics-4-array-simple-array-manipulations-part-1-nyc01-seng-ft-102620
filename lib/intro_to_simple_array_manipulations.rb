@@ -20,7 +20,7 @@ end
 
 def using_shift(array)
   array.shift[0]
-  puts array[0]
+  array[0]
 end
 
 def shift_with_args(array)
