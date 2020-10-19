@@ -9,7 +9,6 @@ def using_unshift(array,string)
 end
 
 def using_pop(array)
-  binding.pry
   array.pop[5]
   array[5]
 end
