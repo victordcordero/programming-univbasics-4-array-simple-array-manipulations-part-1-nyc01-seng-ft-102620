@@ -17,6 +17,5 @@ def pop_with_args(array)
 end
 
 def using_shift(array)
-  binding.pry
-  array.shift[]
+  array.shift[0]
 end
