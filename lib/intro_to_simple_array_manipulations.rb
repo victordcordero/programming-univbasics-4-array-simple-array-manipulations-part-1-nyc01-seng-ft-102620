@@ -10,7 +10,7 @@ end
 
 def using_pop(array)
   array[6]
-  array.pop[6]
+  array.pop[array6]
 end
 
 def pop_with_args(array)
