@@ -9,7 +9,7 @@ def using_unshift(array,string)
 end
 
 def using_pop(array)
-array[6]
+puts array[6]
 array.pop[6]
 end
 
