@@ -19,6 +19,7 @@ array.pop[2]
 end
 
 def using_shift(array)
+  binding.pry
   array.shift[0]
   array[0]
 end
